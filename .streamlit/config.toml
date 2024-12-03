@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#FB8C00"  # Sunset Orange (hope, energy)
+backgroundColor = "#C5E1A5"  # Grass Green (vitality, healing)
+secondaryBackgroundColor = "#FFFFFF"  # White (simplicity)
+textColor = "#3E2723"  # Dark Brown (depth, balance)
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
