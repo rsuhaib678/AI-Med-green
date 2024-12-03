@@ -16,7 +16,9 @@ col1, col2 = st.columns(2, gap="large")
 
 with col1:
     st.markdown("<h3>AI-MED Models</h3>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align:justify;'>Aimed is a rapidly growing software startup specializing in artificial intelligence (AI) solutions for the healthcare industry. Partner companies founded in 2021, the company has developed a proprietary AI healthcare platform that enhances diagnostic improves patients outcome by optimising treatment plans and predicting potential health issues before comes to critical stages.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align:justify;'>AI-Med Models Ltd. is an Artificial Intelligence technology company based in the United Kingdom, aimed at the development of artificial Intelligence in the field of medical sciences, our team tirelessly works to create the most advanced, effective, innovative models.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align:justify;'>Those creative AI models generate. Enhance decision-making solutions by leveraging vast data to identify patterns and trends often invisible to humans.</p>", unsafe_allow_html=True)
+                
 
 with col2:
     st.markdown("<h3>Why Choose AI-MED Models?</h3>", unsafe_allow_html=True)
